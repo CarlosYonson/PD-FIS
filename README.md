@@ -2,10 +2,11 @@
 ![UADY](https://upload.wikimedia.org/wikipedia/commons/8/8e/UADY_logo.svg)
 ## Prueba desempeño Adrian Israel Zapata Chan
 
-[Definicion IS](https://github.com/CarlosYonson/PD-FIS/blob/main/def_IS.md)
+[Definicion IS](IS-def.md)
 
-[Caso de Uso](https://github.com/CarlosYonson/PD-FIS/blob/main/use_case.md)
+[Caso de Uso](user_storie.md)
 
-[Historia de Usuario](https://github.com/CarlosYonson/PD-FIS/blob/main/user_storie.md)
+[Historia de Usuario](use_case.md)
 
 [Vídeo]()
+
