@@ -4,7 +4,7 @@
 
 [Vídeo PD](https://youtu.be/Vcct8wemfjA)
 
-[Definicion IS](/Scripts/script1.md)
+[Definicion IS](/scripts/script1.md)
 
 [Caso de Uso](/Artefactos/use_case.md)
 
