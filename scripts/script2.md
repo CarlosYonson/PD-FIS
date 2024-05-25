@@ -1,15 +1,21 @@
-Aquí tienes un pequeño guión que explica las diferencias y similitudes entre los artefactos, así como las recomendaciones de uso para cada uno:
+# Comparación de Artefactos en Gestión de Proyectos
 
-- **Caso de Uso**
-  - **Descripción**: Define el proceso para establecer metas nutricionales personalizadas a través de un sistema en la nube.
-  - **Similitudes**: Ambos artefactos, Caso de Uso y Historias de Usuario, están enfocados en la funcionalidad del software desde la perspectiva del usuario.
-  - **Diferencias**: El Caso de Uso es más formal y detallado, describiendo el flujo principal y alternativo de eventos.
-  - **Recomendación**: Se recomienda para documentar procesos complejos y proporcionar una visión clara de las interacciones del sistema.
+## Historia de Usuario
+- **Similitudes**: Ambos artefactos sirven para capturar requisitos y expectativas de los usuarios finales.
+- **Diferencias**: La historia de usuario es más específica y se centra en las necesidades individuales de un usuario o rol.
+- **Recomendación de Uso**: Ideal para proyectos ágiles donde se requiere entender detalladamente las necesidades del usuario.
 
-- **Historias de Usuario**
-  - **Descripción**: Narraciones cortas y simples que describen una funcionalidad desde la perspectiva del usuario final.
-  - **Similitudes**: Comparten el objetivo de centrarse en las necesidades del usuario.
-  - **Diferencias**: Las Historias de Usuario son más breves y menos técnicas que los Casos de Uso.
-  - **Recomendación**: Ideales para equipos ágiles y para capturar requisitos de manera rápida y comprensible.
+## Caso de Uso
+- **Similitudes**: Similar a la historia de usuario, describe interacciones y resultados esperados.
+- **Diferencias**: El caso de uso es más general y puede abarcar varios roles o interacciones en un solo documento.
+- **Recomendación de Uso**: Recomendado para proyectos con un enfoque más tradicional o cuando se necesita documentar flujos de trabajo completos.
 
-Estos artefactos son herramientas clave en la gestión de proyectos de software, ayudando a los equipos a entender y cumplir con las necesidades de los usuarios.
+## Especificación de Requisitos
+- **Similitudes**: Tanto la historia de usuario como la especificación de requisitos buscan definir lo que el sistema debe hacer.
+- **Diferencias**: La especificación de requisitos es un documento más formal y detallado que puede incluir requisitos técnicos y no funcionales.
+- **Recomendación de Uso**: Utilizar en proyectos que requieren una documentación exhaustiva y detallada de requisitos técnicos.
+
+## Prototipo
+- **Similitudes**: Ayuda a visualizar y validar requisitos al igual que una historia de usuario.
+- **Diferencias**: El prototipo es una representación tangible del producto final, mientras que la historia de usuario es una descripción narrativa.
+- **Recomendación de Uso**: Recomendable para obtener retroalimentación temprana del usuario y validar la usabilidad antes del desarrollo.
