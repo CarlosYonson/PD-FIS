@@ -4,9 +4,9 @@
 
 [Vídeo PD](https://youtu.be/Vcct8wemfjA)
 
-[Definicion IS](IS-def.md)
+[Definicion IS](/Scripts/script1.md)
 
-[Caso de Uso](user_storie.md)
+[Caso de Uso](/Artefactos/use_case.md)
 
-[Historia de Usuario](use_case.md)
+[Historia de Usuario](/Artefactos/user_storie.md)
 
