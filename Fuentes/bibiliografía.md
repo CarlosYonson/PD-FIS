@@ -1,6 +1,6 @@
 # Fuentes
 
-## 1. Metodologías
+## Metodologías
 
 ### [Zendesk](<https://www.zendesk.com.mx/blog/metodologia-agil-que-es/>)
 
@@ -8,7 +8,7 @@
 
 ### [Swebook](https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf)
 
-## 5. Softskills y Gestion de Proyectos
+## Softskills y Gestion de Proyectos
 
 ### [asana](https://asana.com/es/resources/project-management-skills.)
 
