@@ -1,6 +1,3 @@
-
-Claro, puedo proporcionarte información sobre las habilidades técnicas asociadas a la **Gestión de Proyectos** y cómo se relacionan con las habilidades blandas. A continuación, te presento tres habilidades técnicas clave y sus correspondientes habilidades blandas:
-
 1. **Planificación Estratégica**:
    - **Habilidades Técnicas**: La planificación estratégica implica definir los objetivos del proyecto, identificar los recursos necesarios y establecer un cronograma. Los gerentes de proyectos deben ser capaces de crear planes detallados y realistas para guiar el equipo hacia el éxito.
    - **Habilidades Blandas Relacionadas**:
